@@ -1,0 +1,28 @@
+h1 {
+    color: goldenrod;
+}
+
+body {
+    background-image: url('green-table.jpg');
+    text-align: center;
+    background-size: cover;
+    background-color: green;
+}
+
+p {
+    font-weight: bolder;
+    color: white;
+    font-size: 20px;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: goldenrod;
+    color: #016f32;
+    width: 150px;
+    border: none;
+    font-weight: bold;
+    border-radius: 3px;
+    margin: 3px;
+}
